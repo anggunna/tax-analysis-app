@@ -5,6 +5,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# Lock files (use package-lock.json for consistency)
+pnpm-lock.yaml
+yarn.lock
+
 # Production build
 dist/
 build/
