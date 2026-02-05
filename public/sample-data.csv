@@ -1,0 +1,253 @@
+Tahun;Jenis_Pajak;Target;Realisasi;Persentase;Tingkat_Kepatuhan
+2016;Pajak Hotel;6000000000;6864568010;114;Sangat Patuh
+2017;Pajak Hotel;7400000000;7708131245;104;Sangat Patuh
+2018;Pajak Hotel;10000000000;10387206836;104;Sangat Patuh
+2019;Pajak Hotel;11500000000;10494345926;91;Patuh
+2020;Pajak Hotel;7247902663;2737892676;38;Tidak Patuh
+2021;Pajak Hotel;5000000000;6661447114;133;Sangat Patuh
+2022;Pajak Hotel;11500000000;11691202409;102;Sangat Patuh
+2023;Pajak Hotel;12000000000;12670085243;106;Sangat Patuh
+2024;Pajak Hotel;19000000000;13371545157;70;Tidak Patuh
+2016;Pajak Restoran;4500000000;7430280178;165;Sangat Patuh
+2017;Pajak Restoran;8500000000;13247370569;156;Sangat Patuh
+2018;Pajak Restoran;15000000000;17558191752;117;Sangat Patuh
+2019;Pajak Restoran;20500000000;23978602288;117;Sangat Patuh
+2020;Pajak Restoran;13000000000;13539859567;104;Sangat Patuh
+2021;Pajak Restoran;20000000000;19573620505;98;Patuh
+2022;Pajak Restoran;65166838975;30341525352;47;Tidak Patuh
+2023;Pajak Restoran;58760000000;36717022090;62;Tidak Patuh
+2024;Pajak Restoran;42000000000;42220076924;101;Sangat Patuh
+2016;Pajak Hiburan;1700000000;1933326583;114;Sangat Patuh
+2017;Pajak Hiburan;3400000000;3834450766;113;Sangat Patuh
+2018;Pajak Hiburan;5200000000;5471811499;105;Sangat Patuh
+2019;Pajak Hiburan;5700000000;5786016513;102;Sangat Patuh
+2020;Pajak Hiburan;1703915475;1548035044;91;Patuh
+2021;Pajak Hiburan;7300000000;663337982;9;Tidak Patuh
+2022;Pajak Hiburan;3305132025;3745164050;113;Sangat Patuh
+2023;Pajak Hiburan;4120000000;4259451909;103;Sangat Patuh
+2024;Pajak Hiburan;6800000000;5288927735;78;Tidak Patuh
+2016;Pajak Reklame;2500000000;2680641283;107;Sangat Patuh
+2017;Pajak Reklame;3500000000;3669872765;105;Sangat Patuh
+2018;Pajak Reklame;3500000000;3807271536;109;Sangat Patuh
+2019;Pajak Reklame;3700000000;3739318935;101;Sangat Patuh
+2020;Pajak Reklame;3256263025;3305739083;102;Sangat Patuh
+2021;Pajak Reklame;3000000000;3234454505;108;Sangat Patuh
+2022;Pajak Reklame;4000000000;4446084050;111;Sangat Patuh
+2023;Pajak Reklame;4600000000;4755959227;103;Sangat Patuh
+2024;Pajak Reklame;5950000000;5254079339;88;Cukup Patuh
+2016;Pajak Penerang Jalan (PPJ);40000000000;49331136399;123;Sangat Patuh
+2017;Pajak Penerang Jalan (PPJ);59000000000;61261440735;104;Sangat Patuh
+2018;Pajak Penerang Jalan (PPJ);64500000000;65335995963;101;Sangat Patuh
+2019;Pajak Penerang Jalan (PPJ);67500000000;69951026404;104;Sangat Patuh
+2020;Pajak Penerang Jalan (PPJ);65000000000;67322345799;104;Sangat Patuh
+2021;Pajak Penerang Jalan (PPJ);65000000000;69076634126;106;Sangat Patuh
+2022;Pajak Penerang Jalan (PPJ);79000000000;79981345497;101;Sangat Patuh
+2023;Pajak Penerang Jalan (PPJ);83600000000;85352654734;102;Sangat Patuh
+2024;Pajak Penerang Jalan (PPJ);92000000000;93682627907;102;Sangat Patuh
+2016;Pajak Parkir;650000000;823658697;127;Sangat Patuh
+2017;Pajak Parkir;1200000000;1250898015;104;Sangat Patuh
+2018;Pajak Parkir;1500000000;1649995533;110;Sangat Patuh
+2019;Pajak Parkir;1750000000;1856193837;106;Sangat Patuh
+2020;Pajak Parkir;1000000000;1023470294;102;Sangat Patuh
+2021;Pajak Parkir;1000000000;1067145250;107;Sangat Patuh
+2022;Pajak Parkir;1850000000;1954749591;106;Sangat Patuh
+2023;Pajak Parkir;2100000000;2402708352;114;Sangat Patuh
+2024;Pajak Parkir;1700000000;1443328039;85;Cukup Patuh
+2016;Pajak Air Bawah Tanah;450000000;630190185;140;Sangat Patuh
+2017;Pajak Air Bawah Tanah;650000000;811077551;125;Sangat Patuh
+2018;Pajak Air Bawah Tanah;1000000000;1183155955;118;Sangat Patuh
+2019;Pajak Air Bawah Tanah;1500000000;1386870756;92;Patuh
+2020;Pajak Air Bawah Tanah;1218035440;1312956369;108;Sangat Patuh
+2021;Pajak Air Bawah Tanah;1450000000;1535813859;106;Sangat Patuh
+2022;Pajak Air Bawah Tanah;1550000000;1516529774;98;Patuh
+2023;Pajak Air Bawah Tanah;1520000000;1556491918;102;Sangat Patuh
+2024;Pajak Air Bawah Tanah;2550000000;1612126080;63;Tidak Patuh
+2016;Pajak Gol C;2500000000;3556248433;142;Sangat Patuh
+2017;Pajak Gol C;4000000000;5241899966;131;Sangat Patuh
+2018;Pajak Gol C;7000000000;5870050797;84;Cukup Patuh
+2019;Pajak Gol C;7000000000;8713070747;124;Sangat Patuh
+2020;Pajak Gol C;4132208857;5852070118;142;Sangat Patuh
+2021;Pajak Gol C;6000000000;7642314183;127;Sangat Patuh
+2022;Pajak Gol C;10000000000;7932886217;79;Tidak Patuh
+2023;Pajak Gol C;7000000000;6746691636;96;Patuh
+2024;Pajak Gol C;7000000000;7252366600;104;Sangat Patuh
+2016;Pajak PBB;42650000000;43880094594;103;Sangat Patuh
+2017;Pajak PBB;44000000000;49427525188;112;Sangat Patuh
+2018;Pajak PBB;50000000000;50998303333;102;Sangat Patuh
+2019;Pajak PBB;51500000000;52138775937;101;Sangat Patuh
+2020;Pajak PBB;60000000000;60872218032;101;Sangat Patuh
+2021;Pajak PBB;60000000000;60600524027;101;Sangat Patuh
+2022;Pajak PBB;75174500000;64804027332;86;Cukup Patuh
+2023;Pajak PBB;70200000000;70531251500;100;Sangat Patuh
+2024;Pajak PBB;75100000000;72467522586;96;Patuh
+2016;Pajak BPHTB;22000000000;30226007617;137;Sangat Patuh
+2017;Pajak BPHTB;34000000000;53159664642;156;Sangat Patuh
+2018;Pajak BPHTB;42500000000;49288308640;116;Sangat Patuh
+2019;Pajak BPHTB;48500000000;51333064430;106;Sangat Patuh
+2020;Pajak BPHTB;50000000000;51109762850;102;Sangat Patuh
+2021;Pajak BPHTB;69137970118;52470490737;76;Tidak Patuh
+2022;Pajak BPHTB;56000000000;60822550105;109;Sangat Patuh
+2023;Pajak BPHTB;71100000000;71524635999;101;Sangat Patuh
+2024;Pajak BPHTB;85000000000;80327448182;95;Patuh
+2016;Retribusi Pelayanan Persampahan Kebersihan;870000000;1001833800;115;Sangat Patuh
+2017;Retribusi Pelayanan Persampahan Kebersihan;1320000000;1154973200;87;Cukup Patuh
+2018;Retribusi Pelayanan Persampahan Kebersihan;1142000000;1159886440;102;Sangat Patuh
+2019;Retribusi Pelayanan Persampahan Kebersihan;210000000;226070000;108;Sangat Patuh
+2020;Retribusi Pelayanan Persampahan Kebersihan;43300000;87219000;201;Sangat Patuh
+2021;Retribusi Pelayanan Persampahan Kebersihan;97288000;97288000;100;Sangat Patuh
+2022;Retribusi Pelayanan Persampahan Kebersihan;1400000000;1288800000;92;Patuh
+2023;Retribusi Pelayanan Persampahan Kebersihan;320000000;152122000;48;Tidak Patuh
+2024;Retribusi Pelayanan Persampahan Kebersihan;436000000;639264458;147;Sangat Patuh
+2016;Retribusi Pelayanan Parkir Tepi Jalan Umum ;1603980000;1568820000;98;Patuh
+2017;Retribusi Pelayanan Parkir Tepi Jalan Umum ;1500000000;1415499000;94;Patuh
+2018;Retribusi Pelayanan Parkir Tepi Jalan Umum ;1400000000;1405758000;100;Sangat Patuh
+2019;Retribusi Pelayanan Parkir Tepi Jalan Umum ;1500000000;1408375000;94;Patuh
+2020;Retribusi Pelayanan Parkir Tepi Jalan Umum ;867000000;931466000;107;Sangat Patuh
+2021;Retribusi Pelayanan Parkir Tepi Jalan Umum ;787236000;787236000;100;Sangat Patuh
+2022;Retribusi Pelayanan Parkir Tepi Jalan Umum ;1500000000;1215800000;81;Cukup Patuh
+2023;Retribusi Pelayanan Parkir Tepi Jalan Umum ;1500000000;1310632600;87;Cukup Patuh
+2024;Retribusi Pelayanan Parkir Tepi Jalan Umum ;1575000000;1330940000;85;Cukup Patuh
+2016;Retribusi Pelayanan Pasar;3750000000;3008894768;80;Cukup Patuh
+2017;Retribusi Pelayanan Pasar;3045000000;2981851035;98;Patuh
+2018;Retribusi Pelayanan Pasar;2820000000;2801295450;99;Patuh
+2019;Retribusi Pelayanan Pasar;4695000000;5019969346;107;Sangat Patuh
+2020;Retribusi Pelayanan Pasar;4985000000;4731167731;95;Patuh
+2021;Retribusi Pelayanan Pasar;4050469207;4050469207;100;Sangat Patuh
+2022;Retribusi Pelayanan Pasar;4650000000;5865677722;126;Sangat Patuh
+2023;Retribusi Pelayanan Pasar;6000000000;6822330792;114;Sangat Patuh
+2024;Retribusi Pelayanan Pasar;8000000000;9152547009;114;Sangat Patuh
+2016;Retribusi Pengujian Kendaraan Bermotor;1190000000;1340039200;113;Sangat Patuh
+2017;Retribusi Pengujian Kendaraan Bermotor;1195000000;1340094000;112;Sangat Patuh
+2018;Retribusi Pengujian Kendaraan Bermotor;1200000000;1249255000;104;Sangat Patuh
+2019;Retribusi Pengujian Kendaraan Bermotor;1195000000;1191121000;100;Patuh
+2020;Retribusi Pengujian Kendaraan Bermotor;770000000;794315000;103;Sangat Patuh
+2021;Retribusi Pengujian Kendaraan Bermotor;905510000;905510000;100;Sangat Patuh
+2022;Retribusi Pengujian Kendaraan Bermotor;1100000000;1225760000;111;Sangat Patuh
+2023;Retribusi Pengujian Kendaraan Bermotor;1200000000;1157635000;96;Patuh
+2024;Retribusi Pengujian Kendaraan Bermotor;6835000;6835000;100;Sangat Patuh
+2016;Retribusi Penyedotan Kakus;27000000;26150000;97;Patuh
+2017;Retribusi Penyedotan Kakus;25000000;25150000;101;Sangat Patuh
+2018;Retribusi Penyedotan Kakus;27000000;35050000;130;Sangat Patuh
+2019;Retribusi Penyedotan Kakus;50000000;51100000;102;Sangat Patuh
+2020;Retribusi Penyedotan Kakus;75000000;75950000;101;Sangat Patuh
+2021;Retribusi Penyedotan Kakus;99650000;99650000;100;Sangat Patuh
+2022;Retribusi Penyedotan Kakus;100000000;125850000;126;Sangat Patuh
+2023;Retribusi Penyedotan Kakus;120000000;138150000;115;Sangat Patuh
+2024;Retribusi Penyedotan Kakus;125000000;187050000;150;Sangat Patuh
+2016;Retribusi Pelayanan Tera Ulang;19130500;9130500;48;Tidak Patuh
+2017;Retribusi Pelayanan Tera Ulang;175000000;178409500;102;Sangat Patuh
+2018;Retribusi Pelayanan Tera Ulang;400000000;428534500;107;Sangat Patuh
+2019;Retribusi Pelayanan Tera Ulang;400000000;380567000;95;Patuh
+2020;Retribusi Pelayanan Tera Ulang;400000000;257224000;64;Tidak Patuh
+2021;Retribusi Pelayanan Tera Ulang;372592500;372592500;100;Sangat Patuh
+2022;Retribusi Pelayanan Tera Ulang;375000000;389454500;104;Sangat Patuh
+2023;Retribusi Pelayanan Tera Ulang;408000000;451166000;111;Sangat Patuh
+2024;Retribusi Pelayanan Tera Ulang;430000000;455566000;106;Sangat Patuh
+2016;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1485000000;1515000000;102;Sangat Patuh
+2017;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1200000000;1342458715;112;Sangat Patuh
+2018;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1300000000;1443170185;111;Sangat Patuh
+2019;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1400000000;1450909500;104;Sangat Patuh
+2020;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1550000000;1574069500;102;Sangat Patuh
+2021;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1682833700;1682833700;100;Sangat Patuh
+2022;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1800000000;1870838000;104;Sangat Patuh
+2023;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1900000000;1920872800;101;Sangat Patuh
+2024;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;1909900000;2020872800;106;Sangat Patuh
+2016;Retribusi Pemakaian Kekayaan Daerah;1535585500;2526286350;165;Sangat Patuh
+2017;Retribusi Pemakaian Kekayaan Daerah;1465155600;2145153736;146;Sangat Patuh
+2018;Retribusi Pemakaian Kekayaan Daerah;4804208000;6167172434;128;Sangat Patuh
+2019;Retribusi Pemakaian Kekayaan Daerah;4360291000;4769069905;109;Sangat Patuh
+2020;Retribusi Pemakaian Kekayaan Daerah;3921741000;4244505276;108;Sangat Patuh
+2021;Retribusi Pemakaian Kekayaan Daerah;3716156435;4722142016;127;Sangat Patuh
+2022;Retribusi Pemakaian Kekayaan Daerah;3716156435;4437484886;119;Sangat Patuh
+2023;Retribusi Pemakaian Kekayaan Daerah;4022615565;4901160269;122;Sangat Patuh
+2024;Retribusi Pemakaian Kekayaan Daerah;5419128853;5683370383;105;Sangat Patuh
+2016;Retribusi Terminal;2220215750;2159331822;97;Patuh
+2017;Retribusi Terminal;602000000;637169500;106;Sangat Patuh
+2018;Retribusi Terminal;650000000;671994800;103;Sangat Patuh
+2019;Retribusi Terminal;605000000;624478100;103;Sangat Patuh
+2020;Retribusi Terminal;250000000;325488900;130;Sangat Patuh
+2021;Retribusi Terminal;700000000;767206500;110;Sangat Patuh
+2022;Retribusi Terminal;700000000;1284978200;184;Sangat Patuh
+2023;Retribusi Terminal;1400000000;1600021500;114;Sangat Patuh
+2024;Retribusi Terminal;1605399795;1535090500;96;Patuh
+2016;Retribusi Tempat Khusus Parkir;455000000;573285000;126;Sangat Patuh
+2017;Retribusi Tempat Khusus Parkir;455000000;662962500;146;Sangat Patuh
+2018;Retribusi Tempat Khusus Parkir;540000000;753887300;140;Sangat Patuh
+2019;Retribusi Tempat Khusus Parkir;98000000;102477000;105;Sangat Patuh
+2020;Retribusi Tempat Khusus Parkir;27500000;28101000;102;Sangat Patuh
+2021;Retribusi Tempat Khusus Parkir;954663200;824663200;86;Cukup Patuh
+2022;Retribusi Tempat Khusus Parkir;111628000;1032969000;925;Sangat Patuh
+2023;Retribusi Tempat Khusus Parkir;115000000;1179132000;1025;Sangat Patuh
+2024;Retribusi Tempat Khusus Parkir;126500000;1264419000;1000;Sangat Patuh
+2016;Retribusi Tempat Penginapan/Pesanggrahan/Villa;13750000;16500000;120;Sangat Patuh
+2017;Retribusi Tempat Penginapan/Pesanggrahan/Villa;13750000;8450000;61;Tidak Patuh
+2018;Retribusi Tempat Penginapan/Pesanggrahan/Villa;12250000;7250000;59;Tidak Patuh
+2019;Retribusi Tempat Penginapan/Pesanggrahan/Villa;10250000;6230000;61;Tidak Patuh
+2020;Retribusi Tempat Penginapan/Pesanggrahan/Villa;9725000;5550000;57;Tidak Patuh
+2021;Retribusi Tempat Penginapan/Pesanggrahan/Villa;17725000;18050000;102;Sangat Patuh
+2022;Retribusi Tempat Penginapan/Pesanggrahan/Villa;14625000;12080000;83;Cukup Patuh
+2023;Retribusi Tempat Penginapan/Pesanggrahan/Villa;13255000;20080000;151;Sangat Patuh
+2024;Retribusi Tempat Penginapan/Pesanggrahan/Villa;18006700;26080000;145;Sangat Patuh
+2016;Retribusi Rumah Potong Hewan;550000000;518345500;94;Patuh
+2017;Retribusi Rumah Potong Hewan;545512000;500849000;92;Patuh
+2018;Retribusi Rumah Potong Hewan;545512000;411837000;75;Tidak Patuh
+2019;Retribusi Rumah Potong Hewan;545512000;269514000;49;Tidak Patuh
+2020;Retribusi Rumah Potong Hewan;200000000;201968000;101;Sangat Patuh
+2021;Retribusi Rumah Potong Hewan;166588000;166588000;100;Sangat Patuh
+2022;Retribusi Rumah Potong Hewan;300000000;200111000;67;Tidak Patuh
+2023;Retribusi Rumah Potong Hewan;250000000;213552000;85;Cukup Patuh
+2024;Retribusi Rumah Potong Hewan;250000000;224016000;90;Cukup Patuh
+2016;Retribusi Tempat Rekreasi dan olahraga;8000000000;9299857268;116;Sangat Patuh
+2017;Retribusi Tempat Rekreasi dan olahraga;8000000000;10923165362;137;Sangat Patuh
+2018;Retribusi Tempat Rekreasi dan olahraga;11000000000;11526010465;105;Sangat Patuh
+2019;Retribusi Tempat Rekreasi dan olahraga;12101500000;12110203288;100;Sangat Patuh
+2020;Retribusi Tempat Rekreasi dan olahraga;3061809930;4212638430;138;Sangat Patuh
+2021;Retribusi Tempat Rekreasi dan olahraga;4647556000;4647556000;100;Sangat Patuh
+2022;Retribusi Tempat Rekreasi dan olahraga;918372000;915707000;100;Patuh
+2023;Retribusi Tempat Rekreasi dan olahraga;1713500000;1332644500;78;Tidak Patuh
+2024;Retribusi Tempat Rekreasi dan olahraga;1136234300;1073130100;94;Patuh
+2016;Retribusi Penjualan Produksi Usaha Daerah;104000000;109102000;105;Sangat Patuh
+2017;Retribusi Penjualan Produksi Usaha Daerah;106000000;117931450;111;Sangat Patuh
+2018;Retribusi Penjualan Produksi Usaha Daerah;106000000;109869500;104;Sangat Patuh
+2019;Retribusi Penjualan Produksi Usaha Daerah;200000000;151265000;76;Tidak Patuh
+2020;Retribusi Penjualan Produksi Usaha Daerah;150000000;151488500;101;Sangat Patuh
+2021;Retribusi Penjualan Produksi Usaha Daerah;108469000;108469000;100;Sangat Patuh
+2022;Retribusi Penjualan Produksi Usaha Daerah;330000000;221424650;67;Tidak Patuh
+2023;Retribusi Penjualan Produksi Usaha Daerah;320000000;186980500;58;Tidak Patuh
+2024;Retribusi Penjualan Produksi Usaha Daerah;320000000;264726550;83;Cukup Patuh
+2016;Retribusi izin Mendirikan Bangunan;3746050000;3969555809;106;Sangat Patuh
+2017;Retribusi izin Mendirikan Bangunan;3270050000;3523431699;108;Sangat Patuh
+2018;Retribusi izin Mendirikan Bangunan;3802100000;4114044224;108;Sangat Patuh
+2019;Retribusi izin Mendirikan Bangunan;3800000000;4756638196;125;Sangat Patuh
+2020;Retribusi izin Mendirikan Bangunan;4750000000;5868728400;124;Sangat Patuh
+2021;Retribusi izin Mendirikan Bangunan;4158600800;4158600800;100;Sangat Patuh
+2022;Retribusi izin Mendirikan Bangunan;6830000000;6840041723;100;Sangat Patuh
+2023;Retribusi izin Mendirikan Bangunan;6500000000;5837382786;90;Cukup Patuh
+2024;Retribusi izin Mendirikan Bangunan;6830000000;6840041723;100;Sangat Patuh
+2016;Retribusi Izin Tempat Penjualan Minuman Beralkohol;25000000;34500000;138;Sangat Patuh
+2017;Retribusi Izin Tempat Penjualan Minuman Beralkohol;5000000;5000000;100;Sangat Patuh
+2018;Retribusi Izin Tempat Penjualan Minuman Beralkohol;15000000;34500000;230;Sangat Patuh
+2019;Retribusi Izin Tempat Penjualan Minuman Beralkohol;20000000;36000000;180;Sangat Patuh
+2020;Retribusi Izin Tempat Penjualan Minuman Beralkohol;5000000;10000000;200;Sangat Patuh
+2021;Retribusi Izin Tempat Penjualan Minuman Beralkohol;19500000;19500000;100;Sangat Patuh
+2022;Retribusi Izin Tempat Penjualan Minuman Beralkohol;27500000;48500000;176;Sangat Patuh
+2023;Retribusi Izin Tempat Penjualan Minuman Beralkohol;5000000;15000000;300;Sangat Patuh
+2024;Retribusi Izin Tempat Penjualan Minuman Beralkohol;12080000;13255000;110;Sangat Patuh
+2016;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);40000000;79408800;199;Sangat Patuh
+2017;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);120000000;61600800;51;Tidak Patuh
+2018;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);48600000;130437000;268;Sangat Patuh
+2019;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);80000000;93104400;116;Sangat Patuh
+2020;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);71000000;160471200;226;Sangat Patuh
+2021;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);85838400;85838400;100;Sangat Patuh
+2022;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);27500000;18240000;66;Tidak Patuh
+2023;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);90000000;71668800;80;Tidak Patuh
+2024;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Asing (IMTA);18240000;90000000;493;Sangat Patuh
+2016;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;100000000;126825000;127;Sangat Patuh
+2017;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;10000000;13200000;132;Sangat Patuh
+2018;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;10000000;8450000;85;Cukup Patuh
+2019;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;3250000;3500000;108;Sangat Patuh
+2020;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;67500000;28700000;43;Tidak Patuh
+2021;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;65025000;65025000;100;Sangat Patuh
+2022;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;35000000;49575000;142;Sangat Patuh
+2023;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;8000000;8825000;110;Sangat Patuh
+2024;Retribusi Izin Trayek untuk menyediakan Pelayanan Angkutan Umum;20080000;18006700;90;Cukup Patuh
